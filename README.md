@@ -544,6 +544,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [AISuperHub](https://aisuperhub.io/prompt-hub) - Free AI Prompts & Tools to grow your SaaS or Creator led business. 
 
 
 ## Learning resources
