@@ -403,6 +403,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
 
+- [typesm.art](https://typesm.art) - TypeSmart is a cross-posting tool that lets you publish to X (Twitter), LinkedIn, and Bluesky in one click—while preserving your reach on X. It works right inside Twitter (no new interface), posts via Twitter’s own interface to avoid shadow-ban penalties, and emphasizes quick setup (about 2 minutes), unlimited accounts, thread support, and security (“your login info never touches our servers”). Your content is also repurposed for LinkedIn and Bluesky using AI, based on custom rules you set.
 ### Animation
 
 ## Audio
