@@ -269,6 +269,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Echo](https://echo.merit.systems/) - Open-source Billing and Auth solution. Build AI apps and earn profit on every token your users generate with easy to use templates. 5 line change from the Vercel AI SDK. [#opensource](https://github.com/Merit-Systems/echo)
 
 
 ## Code
