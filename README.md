@@ -562,7 +562,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Sebastian Thrun’s Introduction To Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - robust introduction to the subject and also the foundation for a Data Analyst “nanodegree” certification sponsored by Facebook and MongoDB.
 - [AI and Machine Learning Roadmaps](https://www.scaler.com/blog/category/artificial-intelligence-machine-learning/) - Roadmaps featuring essential concepts, learning methods, and the tools to put them into practice.
 - [How To Learn Artificial Intelligence (AI)?](https://www.appliedaicourse.com/blog/how-to-learn-artificial-intelligence-ai/) - provides a step-by-step guide for beginners to understand and develop AI skills. It covers foundational topics like programming (Python), mathematics, and machine learning, progressing to advanced concepts such as deep learning and neural networks.
-- [RichlyAI Blog](https://blog.richlyai.com) - Find practical guides, AI tutorials, tech tips, and insights on productivity, business, and digital tools—helping readers understand and apply AI in everyday life and work.
 
 ### Deep Learning
 - [Geoffrey Hinton’s Neural Networks For Machine Learning ](https://medium.com/kaggle-blog)- it is now removed from cousrea but still check these list
