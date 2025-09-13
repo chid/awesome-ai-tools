@@ -124,6 +124,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### ChatGPT extensions
 
+- [Rolyai](https://rolyai.net) - Role based ChatGPT. Create your own AI roles. Chat with different roles in one chat like in a normal group chat. You decide who should respond.
 - [Gist AI](https://www.gistai.tech?utm_source=tool_directory&utm_medium=post&utm_campaign=launch) - ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
 - [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
 - [GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) - ChatGPT extension for Google Sheets and Google Docs.
