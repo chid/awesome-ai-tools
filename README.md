@@ -189,6 +189,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [Rolyai](https://rolyai.net) - Role based Chat. Create your own AI roles. Chat with different roles in one chat like in a normal group chat. You decide who should respond.
 
 
 ### Meeting assistants
