@@ -210,6 +210,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [SciSpace](https://scispace.com/) - AI Chat for scientific PDFs.
 - [NotebookLM](https://notebooklm.google.com/) - AI Chat on your own document, link and text resources.
 - [Mathos AI](https://www.mathgptpro.com/) - Best AI math solver, calculator & tutor.
+- [GetPaperFast](https://getpaperfast.com/) - Turn academic PDFs into structured insights: background, methods, results, limits, data availability. Multilingual, batch de-dupe, export to Markdown/HTML. Save time for sleep and family.
 
 ### Customer Support
 - [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
