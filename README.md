@@ -319,7 +319,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Canva](https://www.canva.com/) - Generate and Edit your Pictures with the help of AI
 
 ### Services
-
+- [NanoPhoto.AI](https://nanophoto.ai) - Making AI photo editing simple and efficient
 - [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is a new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
