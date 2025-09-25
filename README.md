@@ -456,7 +456,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[Adzooma](https://www.adzooma.com/)** - AI-powered PPC campaign management platform.
 - **[Phrasee](https://www.phrasee.co/)** - AI tool that generates optimized marketing copy.
 - **[Crimson Hexagon](https://www.crimsonhexagon.com/)** - AI-based social media sentiment analysis platform.
-- **[Waldium](https://waldium.com)** — LLM SEO for businesses: host a structured corpus (LLMs.txt, Q&A) so ChatGPT/Claude/Perplexity can cite your product.
 - **[MarketMuse](https://www.marketmuse.com/)** - SEO content optimization platform using AI.
 - **[Chatfuel](https://www.chatfuel.com/)** - AI-driven chatbot for automating customer engagement on Messenger.
 - **[LogicBalls](https://logicballs.com/)** - An AI-powered writing tool to create any type of content and supercharge your productivity.
@@ -464,6 +463,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[Waldium](https://waldium.com)** — LLM SEO for businesses: AI powered blogs to get your product cited in ChatGPT/Claude/Perplexity.
 
 
 ### Phone Calls
