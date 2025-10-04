@@ -67,6 +67,16 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
 
+### Code with AI
+
+- [Dropstone](https://www.dropstone.io/) - A self-learning AI IDE that automates debugging, workflows, and learns from your code.
+- [Claude Code](https://github.com/anthropics/claude-code) - Command-line tool powered by Anthropic’s Claude, helping developers generate, explain, and refactor code directly from the terminal.
+- [Cursor](https://cursor.sh/) - An AI-powered code editor built on VS Code, designed for pair programming, code generation, and debugging.
+- [Windsurf](https://windsurf.ai/) - An AI IDE focused on context-aware code understanding, automated fixes, and project-level reasoning.
+- [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer that helps you write code faster.
+- [Tabnine](https://www.tabnine.com/) - AI code completion assistant.
+- [Replit Ghostwriter](https://replit.com/site/ghostwriter) - AI that helps you write code in Replit.
+
 
 ### Search engines
 
