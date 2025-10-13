@@ -262,6 +262,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
 - [VoltAgent](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
 - [Notte](https://github.com/nottelabs/notte) - Notte is the fastest, most reliable Browser Using Agents framework
+- [Neurolink](https://github.com/juspay/neurolink) - Multi-provider AI agent framework with workflow orchestration capabilities, unifying 12+ AI providers (OpenAI, Google, Anthropic, AWS, Azure, Groq, Together AI, Mistral, Cohere, Fireworks, Cloudflare, Ollama) with edge-first architecture, streaming, tool calling, and production features. Handles 15M+ requests/month at Juspay.
 - [TensorZero](https://www.tensorzero.com/) - An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 - [ToolHive](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click. 
 - [StarOps](https://ingenimax.ai) - AI Platform Engineer
