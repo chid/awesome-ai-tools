@@ -274,6 +274,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 - [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
+- [ColorMinds AI](https://www.colormindsai.com/) - Free AI-generated coloring pages with 500+ unique designs for kids and adults. No sign-up required.
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
 - [Human Generator](https://generated.photos/human-generator) - AI generator or realistic looking photos of humans.
