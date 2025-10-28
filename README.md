@@ -544,7 +544,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
-
+- [dayStoic.com](https://daystoic.com/) - dayStoic.com makes practicing Stoicism part of your daily routine. Each day you’ll receive a timeless Stoic quote, along with space to reflect - privately, publicly, or with the help of AI if you need inspiration.
 
 ## Learning resources
 
