@@ -544,6 +544,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [reflectScore.com](https://reflectscore.com/) - Take scientifically based self-tests and assessments online. From mental health to lifestyle and personality, reflectScore.com gives you instant insights and detailed results.
 
 
 ## Learning resources
