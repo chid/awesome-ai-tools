@@ -346,6 +346,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gensbot](https://gensbot.com) - Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
 - [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
 - [RepublicLabs.AI](https://republiclabs.ai/) - multi-model simultaneous generation from a single prompt, fully unrestricted and packed with the latest greatest AI models.
+- [Gempix2 (Nano Banana 2)](https://gempix2.site) - Free AI image generation platform with text-to-image, AI editing, and video generation support using second-generation Nano Banana model. No registration required.
 - [Black Headshots](https://www.blackheadshots.com) - AI headshots generator for black professionals
 - [Pixvify AI](https://pixvify.com/) - Free realistic AI photo generator platform
 - [Pawtrait](https://www.pawtrait.art/) - AI Pet Portraits
