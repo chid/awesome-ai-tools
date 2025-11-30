@@ -269,6 +269,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [LaikaTest](https://laikatest.com/) - LaikaTest is an evaluation and optimization layer for LLM prompts. It allows you to compare prompt variants, track performance metrics, and enforce safety guardrails, all without changing application logic.
 
 
 ## Code
