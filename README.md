@@ -306,6 +306,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Image
 
 *For a more complete list of AI Image tools visit: [Best Image AI Tools](https://github.com/mahseema/awesome-ai-tools/blob/main/IMAGE.md) or [Awesome AI Image](https://github.com/xaramore/awesome-ai-image)*
+- [Genstory](https://www.genstory.app) -GenStory is an AI story generator agent, driven by advanced AI technology, dedicated to transforming your moments of creativity into beautiful, illustrated digital picture books. 
 
 
 ### Models
