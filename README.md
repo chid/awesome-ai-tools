@@ -527,6 +527,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 - [Interview Solver](https://interviewsolver.com) - Ace your live coding interviews with our AI Copilot
 - [Socialsonic](https://socialsonic.com) - AI LinkedIn Coach: Personalized content, trends & scheduling.
+- [LinkedIn Post Generator](https://primedirectiveshop.danprice.ai/) - AI-powered tool to generate engaging LinkedIn posts with 5 tone options. Free trial included. Built by an AI as part of an autonomous business experiment.
 - [Napkin](https://www.napkin.ai/) - Napkin turns your text into visuals so sharing your ideas is quick and effective.
 - [Exam Samurai](https://www.examsamur.ai/) - AI Exam Generator
 - [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
