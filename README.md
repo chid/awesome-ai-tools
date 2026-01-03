@@ -264,7 +264,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [VoltAgent](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
 - [Notte](https://github.com/nottelabs/notte) - Notte is the fastest, most reliable Browser Using Agents framework
 - [TensorZero](https://www.tensorzero.com/) - An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
-- [ToolHive](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click. 
+- [ToolHive](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click.
+- [Vedika](https://vedika.io) - AI-powered Vedic astrology API with birth charts, compatibility matching, and natural language predictions in 22 languages. 
 - [StarOps](https://ingenimax.ai) - AI Platform Engineer
 - [AgentDock](https://agentdock.ai) - Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
