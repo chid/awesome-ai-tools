@@ -336,7 +336,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Ponzu](https://www.ponzu.ai/) - Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 - [PhotoGuruAI](https://photoguruai.com/) - Create professional AI Headshots in various styles.
-- [MyPicNow](https://www.mypicnow.com) - Studio-quality AI headshots in 8 seconds. Perfect for LinkedIn profiles, dating apps, and professional use. Rated 4.8/5 by 2,500+ professionals.
 - [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
@@ -356,7 +355,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
-
+- [MyPicNow](https://www.mypicnow.com) - Studio-quality AI headshots in 8 seconds. Perfect for LinkedIn profiles, dating apps, and professional use. Rated 4.8/5 by 2,500+ professionals.
 
 
 ### Graphic design
