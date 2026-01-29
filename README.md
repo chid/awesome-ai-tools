@@ -91,6 +91,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 *For a more complete list of AI writing assistants visit: [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)*
 
+- [GitViral](https://git-viral.vercel.app/) - Turn technical READMEs and code snippets into viral X (Twitter) threads and LinkedIn posts using AI.
 - [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
 - [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
