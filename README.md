@@ -91,7 +91,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 *For a more complete list of AI writing assistants visit: [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)*
 
-- [GitViral](https://git-viral.vercel.app/) - Turn technical READMEs and code snippets into viral X (Twitter) threads and LinkedIn posts using AI.
 - [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
 - [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
@@ -122,6 +121,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
 - [Headlinesai.pro](https://www.headlinesai.pro/) - This AI powered tool can help you in generating catchy and optimized headlines based on your content for multiple platforms like Youtube, Medium, Indie Hackers and Reddit.
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
+- [GitViral](https://git-viral.vercel.app/) - Turn technical READMEs and code snippets into viral X (Twitter) threads and LinkedIn posts using AI.
 
 
 ### ChatGPT extensions
