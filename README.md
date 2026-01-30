@@ -48,6 +48,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource
 - [Claude 3](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.
+- [DeepSeek V4 App](https://deepseekv4.app) - Unofficial resource hub for DeepSeek V4, featuring benchmarks vs GPT-5, news, and API guides. #opensource
 - [Stable Beluga](https://huggingface.co/stabilityai/StableBeluga1-Delta) - A finetuned LLamma 65B model
 - [Stable Beluga 2](https://huggingface.co/stabilityai/StableBeluga2) - A finetuned LLamma2 70B model
 - [GPT-4o Mini](https://altern.ai/ai/gpt-4o-mini) - *[Review on Altern](https://altern.ai/ai/gpt-4o-mini)* - Advancing cost-efficient intelligence
