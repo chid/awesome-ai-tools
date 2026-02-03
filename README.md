@@ -540,6 +540,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ResumeDive](https://resumedive.com) - A resume boosting service using AI
 - [Luthor](https://luthor.ai/) - Programmatic content marketing at scale
 - [Hyperbrowser](https://hyperbrowser.ai/) - Browser infrastructure and automation for AI Agents and Apps with advanced features like proxies, captcha solving, and session recording.
+- [AgentFund](https://github.com/Riobot-Grind/agentfund-escrow) - Crowdfunding platform for AI agents on Base chain. Milestone-based escrow contracts enabling AI agents to raise funds, complete tasks, and get paid autonomously.
 - [Bricks](https://www.thebricks.com/) - The AI Spreadsheet We've All Been Waiting For
 - [MindStudio](https://mindstudio.ai/) — Build powerful AI Agents for yourself, your team, or your enterprise. Powerful, easy to use, visual builder—no coding required, but extensible with code if you need it. Over 100 templates for all kinds of business and personal use cases.
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
