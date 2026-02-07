@@ -355,7 +355,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
-
+- [Style2AI](https://style2ai.com/) - AI design platform for architects, designers and the all of the AEC industry. Style2ai has 100+ styles, diagrams, mood boards, materials lists, elevations, and video walkthroughs, and so much more. Style2AI is your new all-in-one tool helping everyone in your practice do more.
 
 
 ### Graphic design
