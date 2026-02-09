@@ -465,6 +465,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
 - **[Cobalt Studio Prompt Generator](https://techchenko.github.io/cobaltstudio-products/tools/prompt-generator/)** - Free no-signup prompt generator for business workflows (copy/paste into ChatGPT or Claude).
+- **[Cobalt Studio Project Closeout Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/project-closeout-email-generator/)** - Free no-signup generator to draft a project wrap-up email for clients.
+- **[Cobalt Studio Client Offboarding Checklist Generator](https://techchenko.github.io/cobaltstudio-products/tools/client-offboarding-checklist-generator/)** - Free no-signup generator for a client offboarding checklist (handover, access, next steps).
 
 
 ### Phone Calls
