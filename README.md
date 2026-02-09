@@ -1,5 +1,7 @@
 # Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+
+- [OpenClaw](https://github.com/openclaw/openclaw) — Self-hostable personal AI assistant runtime (cron/jobs, messaging integrations, browser + node automation). Hosted option: https://clawoncloud.com
 > A curated list of Artificial Intelligence Top Tools
 >
 > Feel free to contribute and also submit your AI tools on [altern.ai](https://altern.ai/?utm_source=awesomeaitools) for free
