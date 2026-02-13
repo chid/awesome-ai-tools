@@ -402,7 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
-- [TubePrompter](https://tubeprompter.com/) - A free AI tool that converts YouTube, TikTok, and Instagram videos into optimized prompts for Sora, Midjourney, Runway Gen-3, Stable Diffusion, and other AI generators using computer vision analysis.
+- [TubePrompter](https://tubeprompter.com/) - Convert any video into AI-ready prompts for Sora, Midjourney, Runway, and more using computer vision.
 
 
 ### Animation
