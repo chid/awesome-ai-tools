@@ -494,6 +494,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Other
 
+- [AgentIndex](https://agentcrawl.dev) - AI agent discovery platform. Search 39,000+ agents across GitHub, npm, PyPI, HuggingFace, and MCP registries. Open API, MCP server, and A2A protocol support. [GitHub](https://github.com/agentidx/agentindex)
+
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
