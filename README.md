@@ -466,6 +466,12 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
 
 
+- **[AfrexAI Cold Email Writer](https://afrexai-cto.github.io/agent-setup/)** - AI agent skill that writes personalized cold outreach emails.
+- **[AfrexAI SEO Writer](https://afrexai-cto.github.io/agent-setup/)** - AI-powered SEO content writer built as an OpenClaw skill.
+- **[AfrexAI LinkedIn Writer](https://afrexai-cto.github.io/agent-setup/)** - AI agent that crafts engaging LinkedIn posts and outreach.
+- **[AI Revenue Calculator](https://afrexai-cto.github.io/ai-revenue-calculator/)** - Free calculator showing businesses how much revenue AI agents can generate.
+
+
 ### Phone Calls
 - [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
 - [AI Voice Agents](https://diallink.com/) — AI Voice Agents for business calls and routine tasks, powered by DialLink cloud phone system.
