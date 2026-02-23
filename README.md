@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [ODEI](https://api.odei.ai) - World Model as a Service for AI agents. Constitutional knowledge graph (91 nodes, Neo4j) providing persistent memory, 7-layer safety guardrails, and smart contract audit via API. Available on Virtuals ACP (#3082), Fetch.ai Agentverse, and Clawlancer. [GitHub](https://github.com/odei-ai/web)
 
 
 ## Code
