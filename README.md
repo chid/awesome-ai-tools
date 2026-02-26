@@ -170,6 +170,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Riffo](https://riffo.ai/) - An AI-powered file management tool for bulk renaming and automatic folder organization.
 - [SlidesWizard](https://slideswizard.io) - Create Presentations 10x faster. Generate PowerPoint and Google Slides presentations about any topic with AI
 - [Transgate](https://transgate.ai/) - AI Speech to Text
+- [AI Agent Configurator](https://wmiddendorff.github.io/agent-configurator/) - Free interactive wizard that generates custom AGENTS.md and SOUL.md configuration files for AI agents in 60 seconds. No signup required.
+- [AI Readiness Quiz](https://wmiddendorff.github.io/ai-readiness-quiz/) - Free 5-dimension AI readiness assessment for businesses. Score your organization across Data, Process, Team, Tech, and Strategy.
 - [RabbitHoles AI](https://www.rabbitholes.ai/) - Chat with AI on an Infinite Canvas
 - [Rember](https://www.rember.com/) - A simple yet powerful spaced repetition system designed to help you remember more.
 - [Qurate](https://qurate.appcradle.net/) - AI Quote Companion, which can help in finding relavant quotes according to the context.
@@ -460,6 +462,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[MarketMuse](https://www.marketmuse.com/)** - SEO content optimization platform using AI.
 - **[Chatfuel](https://www.chatfuel.com/)** - AI-driven chatbot for automating customer engagement on Messenger.
 - **[LogicBalls](https://logicballs.com/)** - An AI-powered writing tool to create any type of content and supercharge your productivity.
+- **[AI ROI Calculator](https://wmiddendorff.github.io/ai-roi-calculator/)** - Free interactive calculator that estimates ROI from AI investments with 5-year projections and industry benchmarks.
 - **[Rupert AI](https://www.getrupert.com/)** - AI tools for designers and marketers
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
@@ -512,6 +515,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [GummySearch](https://gummysearch.com/?ref=mahseema-awesome-ai-tools) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
 - [Taplio](https://taplio.com/?ref=mahseema-awesome-ai-tools) - The all-in-one, AI-powered LinkedIn tool.
 - [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favorite AI. All in one place.
+- [AI Prompt Library](https://wmiddendorff.github.io/prompt-library/) - Free searchable collection of 60+ AI prompts across 10 categories with favorites and copy-to-clipboard. No signup required.
 - [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
 - [Myriad](https://www.namepepper.com/free-tools/ai-content-prompt-tool) - Scale your content creation and get the best writing from ChatGPT, Copilot, and other AIs. Build and fine-tune prompts for any kind of content, from long-form to ads and email.
 - [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
