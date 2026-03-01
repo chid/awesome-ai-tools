@@ -1,4 +1,5 @@
 # Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+- [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure for AI agents — scalable Chromium with stealth, proxies, and session management
 
 > A curated list of Artificial Intelligence Top Tools
 >
