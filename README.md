@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [PM AI Partner](https://github.com/ahmedkhaledmohamed/PM-AI-Partner-Framework) - Open-source Claude Code plugin with 12 PM-specific agent skills, 6 workflow commands, and 3 automation hooks. Structured AI thinking partner for Product Managers. Install: `npx pm-ai-partner@latest`
 
 
 ## Image
