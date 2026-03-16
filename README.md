@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Fazm](https://fazm.ai) - The fastest open-source AI computer agent for macOS. Takes voice commands and controls your entire desktop using direct DOM control instead of screenshots. Local-first and free.
 
 
 ## Learning resources
