@@ -179,6 +179,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Nudge AI](https://getnudgeai.com/) - Ambient AI Scribe for Healthcare
 - [Summara](https://summara.io/) - YouTube AI Summary and Transcript widget
 - [Mocha](https://getmocha.com) - AI app builder
+- [Suriya](https://suriya.ai) - AI-powered app builder for Thai SMEs. Create loyalty apps, booking systems, and customer management tools in minutes with no coding required.
 - [Marblism](https://marblism.com) - AI Employees for your business
 - [Spell](https://spellapp.com) - Spell is the AI alternative to Google Docs
 - [Kosmik](https://www.kosmik.app) - AI moodboarding platform
