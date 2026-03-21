@@ -276,6 +276,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [poorcoder](https://github.com/vgrichina/poorcoder) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok without disrupting your development process.
+- [Claude Code Starter Kit](https://github.com/rmbell09-lang/claude-code-starter-kit) - Production-ready templates and skills for building persistent AI agents with Claude Code — includes memory system, personality files, and agent orchestration patterns.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by Replit.
 - [GoCodeo](https://www.gocodeo.com/)- An AI Coding & Testing Agent.
