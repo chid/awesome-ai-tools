@@ -593,3 +593,5 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+- [SkillFlow](https://skillflow.builders) - Curated marketplace for AI agent skills. Browse, compare, and deploy pre-built skills for Manus, Claude, GPT and other AI agents.
