@@ -522,6 +522,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Wedding Toast](https://aiweddingtoast.com) - Generate a personalized wedding speech with AI
 - [Interviews Chat](https://www.interviews.chat/) - Your Personal Interview Prep & Copilot
 - [Context Data](https://contextdata.ai/) - Data Processing & ETL infrastructure for Generative AI applications
+- [Kitmul](https://kitmul.com) - 100+ free AI-powered browser tools for everyday tasks — PDF, image, video, text, developer utilities and more. No signup required, all processing happens locally in your browser.
 - [ezJobs](https://www.getezjobs.com/) - Automated job search and applications
 - [Compass](https://www.getwhys.io/compass) - AI driven answers to SaaS research questions
 - [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
