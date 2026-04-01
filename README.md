@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Solar System Agents](https://audazia.github.io/solar-system-agents/) - Cyberpunk mission control dashboard for monitoring AI agent fleets. Two views: command center and orbital visualization. Zero dependencies, static HTML, works with any framework. [#opensource](https://github.com/Audazia/solar-system-agents)
 
 
 ## Code
