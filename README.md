@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[MarketCore Toolkit](https://toolkit-directory-1090035465538.us-central1.run.app)** - Curated directory of 275+ MCP servers and AI tools for marketing, with editorial scores across SEO, content, email, social media, analytics, and CRM
 
 
 ### Phone Calls
