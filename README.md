@@ -547,6 +547,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Melies](https://melies.co) - AI Filmmaking software
 
 
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell open-source AI agent skills and personas.
+
 ## Learning resources
 
 - [Learn Prompting](https://learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
