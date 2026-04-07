@@ -264,6 +264,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Asqav](https://github.com/jagmarques/asqav-sdk) - Quantum-safe AI agent governance. ML-DSA-65 signed audit trails, policy enforcement, threat detection, and compliance evidence for EU AI Act. Integrates with LangChain, CrewAI, OpenAI Agents.
 - [VoltAgent](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
 - [Notte](https://github.com/nottelabs/notte) - Notte is the fastest, most reliable Browser Using Agents framework
+- [NexusQuant](https://github.com/jagmarques/nexusquant) - Training-free KV cache compression for LLMs. 10–33x compression via E8 lattice vector quantization, no retraining required. Drop-in one-liner: `with nexusquant(model): model.generate(...)`.
 - [TensorZero](https://www.tensorzero.com/) - An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 - [ToolHive](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click. 
 - [StarOps](https://ingenimax.ai) - AI Platform Engineer
