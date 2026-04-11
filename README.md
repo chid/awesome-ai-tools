@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[BulkPublish](https://app.bulkpublish.com/api)** - Social media API for 11 platforms. AI-native MCP server with 29 tools lets AI agents create posts, schedule content, upload media, and track analytics. Python & Node.js SDKs. [GitHub](https://github.com/azeemkafridi/bulkpublish-api) | [npm](https://www.npmjs.com/package/@bulkpublish/mcp-server)
 
 
 ### Phone Calls
