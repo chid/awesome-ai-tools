@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [Burn](https://burn451.cloud) - AI-powered reading triage with a 24h burn timer. Every saved article forces a decision: read it, absorb it, vault it, or let it burn. MCP server with 26 tools lets Claude/Cursor/Windsurf work with your reading. Read less, absorb more.
 
 
 ### Meeting assistants
