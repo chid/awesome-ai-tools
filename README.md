@@ -302,7 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
-- [AuraKit](https://github.com/smorky850612/Aurakit) - All-in-one Claude Code skill: 33 modes, 6-layer security, 23 hooks, 8 languages, 75% token savings. Cross-platform (Codex, Cursor, Manus, Windsurf).
+- [AuraKit](https://github.com/smorky850612/Aurakit) - All-in-one Claude Code skill: 46 modes, 23 sub-agents, 6-layer OWASP security, 10 lifecycle hooks, ~55% token savings. Install: `npx @smorky85/aurakit`
 
 
 ## Image
