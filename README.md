@@ -10,6 +10,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Contents
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding brain with 22 neural modules, infinite memory, predictive bug detection.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ AI agent skills for Claude Code, Cursor, Copilot.
+
 - [🌟 Editor's Choice](#editors-choice)
 - [📝 AI Text](#text)
 - [👩‍💻 Code with AI](#code)
