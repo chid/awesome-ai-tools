@@ -191,6 +191,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
 
+- [Brain Brief](https://brainbrief.app) - AI-generated personalized daily email digests based on topics you choose, powered by Google Search grounding for real-time accuracy.
 
 ### Meeting assistants
 
