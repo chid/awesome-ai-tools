@@ -199,7 +199,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
 - [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
 - [Scribbl](https://www.scribbl.co) - AI Meeting Notes
-- [Recapro](https://recapro.ai/) - AI-powered meeting transcription and structured report generation. Converts voice recordings into actionable summaries tailored by meeting type. iOS/Android apps with offline recording. CRM integration (Salesforce, SharePoint, SAP). GDPR compliant. Hosted in France.
+- [Recapro](https://recapro.ai/) - Meeting transcription and structured report generation. Converts recordings into summaries adapted to each meeting type (sales, support, project). iOS/Android apps with offline recording. CRM integration (Salesforce, SharePoint, SAP). GDPR compliant. Hosted in France.
 
 ### Academia
 
