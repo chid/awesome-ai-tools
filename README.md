@@ -515,6 +515,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
 - [Myriad](https://www.namepepper.com/free-tools/ai-content-prompt-tool) - Scale your content creation and get the best writing from ChatGPT, Copilot, and other AIs. Build and fine-tune prompts for any kind of content, from long-form to ads and email.
 - [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
+- [CV Mirror](https://cv-mirror-web.vercel.app/) - Free, fully client-side ATS scanner. Simulates how 5 real ATS systems (Workday, Greenhouse, Lever, Taleo, iCIMS) parse a CV side by side. Reading-order overlay, vendor-specific lint, no fake score. Nothing uploads.
+- [Vantage AI](https://vantage-livid.vercel.app/) - AI job preparation tool. Upload CV, paste job link, get the full prep pack (company brief, tailored cover letter, mock interview, fit score, 5-min pitch outline) in 90 seconds.
 - [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
 - [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
 - [Architecture Helper](https://architecturehelper.com) - Analyze any building architecture, and generate your own custom styles, in seconds.
