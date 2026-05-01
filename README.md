@@ -109,6 +109,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=mahseema-awesome-ai-tools) - Forget about frustrating formulas in Google Sheets.
 - [CreateEasily](https://createeasily.com/?ref=mahseema-awesome-ai-tools) - Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB.
 - [aiPDF](https://aipdf.ai) - The most advanced AI document assistant
+- [Instafill.ai](https://instafill.ai) - AI assistant that auto-fills PDF forms from saved profiles, uploaded files, or supplied data; available as a web app and MCP server.
 
 
 ### Meeting assistants
