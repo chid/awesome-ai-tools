@@ -270,7 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
-- [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Universal CLI for AI agents — 1,458 commands across 238 sites (web, desktop, Electron apps). Self-repairing YAML adapters with structured error envelopes (`adapter_path`, `step`, `suggestion`); per-call token budget published in [`docs/BENCHMARK.md`](https://github.com/olo-dot-io/Uni-CLI/blob/main/docs/BENCHMARK.md). TypeScript, Apache-2.0. [#opensource](https://github.com/olo-dot-io/Uni-CLI)
+- [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Universal CLI for AI agents — exposes web, desktop, and Electron apps as deterministic commands. Self-repairing YAML adapters with structured error envelopes (`adapter_path`, `step`, `suggestion`). Live catalog size and per-call token budget tracked in the repo's [README](https://github.com/olo-dot-io/Uni-CLI#readme) and [`docs/BENCHMARK.md`](https://github.com/olo-dot-io/Uni-CLI/blob/main/docs/BENCHMARK.md). TypeScript, Apache-2.0. [#opensource](https://github.com/olo-dot-io/Uni-CLI)
 
 
 ## Code
