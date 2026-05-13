@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Certvo](https://certvo.com) - AI-powered WCAG accessibility scanner that generates production-ready code fixes (HTML/CSS/JS) using Claude AI. Includes VPAT 2.4 generation and an MCP server for Claude Code and Cursor. Free tier available.
 
 
 ## Code
