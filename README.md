@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Bilig WorkPaper](https://github.com/proompteng/bilig) - Open-source TypeScript formula WorkPaper runtime and MCP server for agent-readable spreadsheet state, cell edits, recalculation, display-value readback, and JSON persistence.
 
 
 ## Code
