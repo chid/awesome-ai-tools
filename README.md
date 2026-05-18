@@ -1,4 +1,4 @@
-# Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+<img width="616" height="831" alt="image" src="https://github.com/user-attachments/assets/823ebf9e-1a4d-4264-af1a-823f105a88c8" /># Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of Artificial Intelligence Top Tools
 >
@@ -26,7 +26,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Editor's Choice
 
-- [EasyClaw](https://easyclaw.com) - AI workflow automation platform for ecommerce operations and teams.
 - [AI For Developers](https://aifordevelopers.org) - Just a curated list of AI agents, SDKs, coding copilots, and dev-first tools that save you hours — not waste them.
 - [There's an AI](https://theresanai.com) - List of best AI Tools
 - [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - Just ask Q&A, and find the info you need in seconds. Get help writing and brainstorming in Notion, not in a separate browser tab.
@@ -495,6 +494,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Other
 
+- [EasyClaw](https://easyclaw.com) - AI-powered workflow automation for ecommerce and operations teams.
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
