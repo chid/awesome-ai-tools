@@ -1,4 +1,4 @@
-<img width="616" height="831" alt="image" src="https://github.com/user-attachments/assets/823ebf9e-1a4d-4264-af1a-823f105a88c8" /># Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of Artificial Intelligence Top Tools
 >
