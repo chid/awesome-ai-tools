@@ -580,6 +580,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [Altern](https://altern.ai) - Find Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured database of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities
 - [Best of AI](https://github.com/best-of-ai/best-of-ai) - Like Michelin Guide for AI
 - [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 - [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - Curated list of AI-powered developer tools.
