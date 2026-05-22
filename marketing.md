@@ -22,6 +22,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Copy.ai](https://www.copy.ai/)** - AI-powered copywriting tool for generating ad copy, product descriptions, and website content.
 - **[Writesonic](https://writesonic.com/)** - AI writing assistant for marketing content, blogs, and sales copy generation.
 - **[AI Story Book](https://aistorybook.app)** – Illustrated AI storybooks with tools for sharing on socials. Great for marketing through storytelling.
+- **[AiAssistWorks](https://aiassistworks.com/)** - Generate marketing content directly in Google Sheets with 100+ AI models. Free forever plan with bring-your-own API key support
 
 ## Personalization
 
@@ -61,15 +62,18 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Brandwatch](https://www.brandwatch.com/)** - AI-driven consumer insights platform for social media listening and market research.
 - **[Talkwalker](https://www.talkwalker.com/)** - Provides AI-powered marketing analytics, social media monitoring, and brand sentiment analysis.
 - **[Capalyze](https://capalyze.ai/)** - Capalyze is the only AI that lets you capture web data across platforms, run sentiment analysis, and automate it all — through natural language.
+- **[PersonaResearch](https://personaresearch.dev)** - Turns App Store reviews into customer personas in 2 minutes using AI. Fetches hundreds of real reviews, extracts themes, and synthesizes 3-5 evidence-backed persona cards with user quotes — no surveys needed.
 
 ## GEO (Generative Engine Optimization)
- **[GetBool AI](https://www.getbool.ai/)** - AI tool that helps marketers improve their brand visibility wihtin LLMs, by using high-quality content, high quality mentions and links, reviews, etc...
+- **[GetBool AI](https://www.getbool.ai/)** - AI tool that helps marketers improve their brand visibility wihtin LLMs, by using high-quality content, high quality mentions and links, reviews, etc...
+ - **[Citedify](https://www.citedify.com/)** - Track your brand's visibility in AI search engines (ChatGPT, Claude, Perplexity, Google AI). Get an AI Visibility Score and actionable fix-it roadmap for improving your brand's presence in generative AI responses.
 
 ## SEO & Search Optimization
 
 - **[MarketMuse](https://www.marketmuse.com/)** - AI content optimization tool that helps marketers improve SEO performance by analyzing content gaps and providing keyword suggestions.
 - **[Surfer SEO](https://surferseo.com/)** - AI-powered SEO tool for optimizing content and improving search engine rankings through on-page audits and suggestions.
 - **[Clearscope](https://www.clearscope.io/)** - AI-powered SEO platform that provides keyword insights and content optimization recommendations.
+- **[RankingRider](https://www.rankingrider.com/)** - AI-powered bulk SEO optimization for Shopify products via CSV.
 
 ## Customer Support
 
@@ -82,4 +86,3 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 ## Contributing
 
 Contributions are welcome! Please follow the [guidelines](CONTRIBUTING.md) for adding new tools or improving descriptions.
-
