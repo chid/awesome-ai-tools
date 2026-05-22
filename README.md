@@ -115,7 +115,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
 - [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 - [Quick Creator](https://quickcreator.io) - SEO-Optimized Blog platform powered by AI.
-- [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
 - [Trolly.ai](https://trolly.ai/) - Trolly.ai can help you in creating professional SEO articles, 2x faster. This tool crafts content that search engines love, propelling you up the rankings.
 - [Dittto.ai](https://dittto.ai) - Fix your hero copy with an AI trained on top SaaS websites.
 - [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
@@ -123,7 +122,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
 - [Headlinesai.pro](https://www.headlinesai.pro/) - This AI powered tool can help you in generating catchy and optimized headlines based on your content for multiple platforms like Youtube, Medium, Indie Hackers and Reddit.
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
-- [AI Chat Studio](https://aichatstudio.codestorez.com/) - Chat with AI and Earn Halal Money with Barakah!
 
 
 ### ChatGPT extensions
@@ -193,7 +191,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
-- [AI Chat Studio](https://aichatstudio.codestorez.com/) - Chat with AI and Earn Halal Money with Barakah!
 
 
 ### Meeting assistants
@@ -479,7 +476,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Speech
 - [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
-- [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text to speech.
 - [WellSaid](https://wellsaidlabs.com/) - Convert text to voice in real time.
 - [Play.ht](https://play.ht/) - AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio.
 - [Coqui](https://coqui.ai/) - Generative AI for Voice.
@@ -550,7 +546,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
-- [AI Chat Studio](https://aichatstudio.codestorez.com/) - Chat with AI and Earn Halal Money with Barakah!
 
 
 ## Learning resources
@@ -583,12 +578,10 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Related Awesome Lists
 
 - [Altern](https://altern.ai) - Find Best AI Tools
-- [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
 - [Best of AI](https://github.com/best-of-ai/best-of-ai) - Like Michelin Guide for AI
 - [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 - [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - Curated list of AI-powered developer tools.
 - [Awesome Vibe Coding](http://github.com/dariubs/awesome-vibe-coding) - A hand-picked collection of tools and resources for Vibe Coding.
-- [There's An AI](https://theresanai.com) - Frontpage of AI
 - [Awesome AI Books](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 - [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 - [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
