@@ -414,6 +414,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AgentDock](https://agentdock.ai) - Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
+- [OfoxAI](https://ofox.ai) - Unified API gateway giving developers access to 100+ LLMs via a single OpenAI-compatible endpoint. No monthly fees, pay per token.
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
 
 
