@@ -5,7 +5,6 @@ Dead links found in README.md, retrieved 2026-05-23.
 | Line | Link | Error |
 |------|------|-------|
 | 45 | https://opt.alpa.ai/ | Connection failed |
-| 49 | https://claude.ai/ | HTTP 403 |
 | 33 | https://try.sanebox.com/yzkpe5s68xk2 | HTTP 404 |
 | 32 | https://get.murf.ai/v8i9to5ad4oq | HTTP 404 |
 | 34 | https://get.meetgeek.ai/zmrnb5xlyfs9 | HTTP 404 |
