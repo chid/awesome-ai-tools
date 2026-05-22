@@ -67,6 +67,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
+- [AI Chat Studio](https://aichatstudio.codestorez.com/) - Chat with AI and Earn Halal Money with Barakah!
+
 
 
 ### Search engines
@@ -121,6 +123,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
 - [Headlinesai.pro](https://www.headlinesai.pro/) - This AI powered tool can help you in generating catchy and optimized headlines based on your content for multiple platforms like Youtube, Medium, Indie Hackers and Reddit.
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
+- [AI Chat Studio](https://aichatstudio.codestorez.com/) - Chat with AI and Earn Halal Money with Barakah!
 
 
 ### ChatGPT extensions
@@ -190,6 +193,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [AI Chat Studio](https://aichatstudio.codestorez.com/) - Chat with AI and Earn Halal Money with Barakah!
 
 
 ### Meeting assistants
@@ -464,6 +468,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[AI Chat Studio](https://aichatstudio.codestorez.com/) - Chat with AI and Earn Halal Money with Barakah!
 
 
 ### Phone Calls
@@ -545,6 +550,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [AI Chat Studio](https://aichatstudio.codestorez.com/) - Chat with AI and Earn Halal Money with Barakah!
 
 
 ## Learning resources
